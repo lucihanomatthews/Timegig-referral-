@@ -1,0 +1,11 @@
+{
+  "name": "GeoOSM Navigator",
+  "description": "Interactive OpenStreetMap location template with real-time GPS tracking, custom markers, OSRM routing, Nominatim search, Overpass POIs, and zero API costs.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
